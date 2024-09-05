@@ -8,9 +8,9 @@ Mas fique tranquilo, é possível criar uma conta gratuita na plataforma e receb
 
 Para criação da sua conta gratuita acesse:
 
-    ```bash
+```bash
    https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/
-    ```
+```
 
 E clique no botão "Experimente o Azure gratuitamente".
 
